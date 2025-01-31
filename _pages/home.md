@@ -14,7 +14,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Beyond End-to-end ASR: Integrating Long-context Acoustic and Linguistic Insights</h1></center>
     <!-- Update with your conference details -->
-    <center><h2>Tutorial at [Conference Name], 2024</h2></center>
+    <center><h2>Tutorial at Interspeech, 2025</h2></center>
   </div>
 </div>
 
