@@ -68,7 +68,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <div class="people-name">
-      <img class="people-pic" src="{{ "/static/img/people/kyu.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/kyu.jpg" | prepend:site.baseurl }}">
       <a href="#">Kyu J. Han</a>
       <h6>AWS</h6>
       <p><a href="mailto:kjhan@ieee.org">kjhan@ieee.org</a></p>
@@ -76,7 +76,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <div class="people-name">
-      <img class="people-pic" src="{{ "/static/img/people/taejin.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/taejin.jpg" | prepend:site.baseurl }}">
       <a href="#">Tae Jin Park</a>
       <h6>NVIDIA</h6>
       <p><a href="mailto:taejinp@nvidia">taejinp@nvidia</a></p>
@@ -84,7 +84,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <div class="people-name">
-      <img class="people-pic" src="{{ "/static/img/people/huck.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/huck.jpg" | prepend:site.baseurl }}">
       <a href="#">Huck Yang</a>
       <h6>NVIDIA</h6>
       <p><a href="mailto:hucky@nvidia">hucky@nvidia</a></p>
@@ -92,7 +92,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <div class="people-name">
-      <img class="people-pic" src="{{ "/static/img/people/shinji.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/shinji.jpg" | prepend:site.baseurl }}">
       <a href="#">Shinji Watanabe</a>
       <h6>CMU</h6>
       <p><a href="mailto:shinjiw@ieee.org">shinjiw@ieee.org</a></p>
