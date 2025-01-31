@@ -1,0 +1,9 @@
+title: Quantum ML
+description: Quantum ML
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id:
