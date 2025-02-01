@@ -66,7 +66,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-6 col-lg-2">
+  <div class="col-xs-4 col-lg-3">
     <div class="people-name">
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/kyu.jpeg" | prepend:site.baseurl }}">
       <a href="#">Kyu J. Han</a>
@@ -74,7 +74,7 @@ acknowledgements: ""
       <p><a href="mailto:kjhan@ieee.org">kjhan@ieee.org</a></p>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-2">
+  <div class="col-xs-4 col-lg-3">
     <div class="people-name">
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/taejin.jpeg" | prepend:site.baseurl }}">
       <a href="#">Tae Jin Park</a>
@@ -82,7 +82,7 @@ acknowledgements: ""
       <p><a href="mailto:taejinp@nvidia.com">taejinp@nvidia.com</a></p>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-2">
+  <div class="col-xs-4 col-lg-3">
     <div class="people-name">
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
       <a href="#">Huck Yang</a>
