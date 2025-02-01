@@ -60,9 +60,9 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="organizers">
+<div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Organizers</h2>
+    <h2>Speakers</h2>
   </div>
 </div>
 <div class="row">
