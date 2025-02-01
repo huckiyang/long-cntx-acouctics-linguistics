@@ -2,7 +2,7 @@
 layout: project
 urltitle: "Beyond End-to-end ASR: Integrating Long-context Acoustic and Linguistic Insights"
 title: "Beyond End-to-end ASR: Integrating Long-context Acoustic and Linguistic Insights"
-categories: tutorial, speech recognition, language models, ASR, 2024
+categories: tutorial, speech recognition, language models, ASR, 2025
 permalink: /
 bibtex: true
 paper: true
@@ -79,7 +79,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/taejin.jpeg" | prepend:site.baseurl }}">
       <a href="#">Tae Jin Park</a>
       <h6>NVIDIA</h6>
-      <p><a href="mailto:taejinp@nvidia">taejinp@nvidia</a></p>
+      <p><a href="mailto:taejinp@nvidia.com">taejinp@nvidia.com</a></p>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -87,7 +87,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
       <a href="#">Huck Yang</a>
       <h6>NVIDIA</h6>
-      <p><a href="mailto:hucky@nvidia">hucky@nvidia</a></p>
+      <p><a href="mailto:hucky@nvidia.com">hucky@nvidia.com</a></p>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -140,5 +140,5 @@ acknowledgements: ""
 <!-- Add additional sections as needed -->
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
-    <h6>© 2024 Speech Tutorial</h6>
+    <h6>© 2025 Speech Tutorial</h6>
 </div>
