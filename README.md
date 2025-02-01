@@ -1,7 +1,6 @@
-# quantum-ml-main
-Webpage source files for tutorial at IJCAI 201
+# long cntx
+Webpage source files 
 
-https://huckiyang.github.io/quantum-ml-main/
 
 ```python
 from tensorflow import keras
