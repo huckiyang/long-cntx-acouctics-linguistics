@@ -70,7 +70,7 @@ acknowledgements: ""
     <div class="people-name">
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/kyu.jpeg" | prepend:site.baseurl }}">
       <a href="#">Kyu J. Han</a>
-      <h6>AWS</h6>
+      <h6>Amazon Web Services (AWS)</h6>
       <p><a href="mailto:kjhan@ieee.org">kjhan@ieee.org</a></p>
     </div>
   </div>
@@ -94,7 +94,7 @@ acknowledgements: ""
     <div class="people-name">
       <img class="people-pic" src="{{ "/long-cntx-acouctics-linguistics/static/img/people/shinji.png" | prepend:site.baseurl }}">
       <a href="#">Shinji Watanabe</a>
-      <h6>CMU</h6>
+      <h6>Carnegie Mellon University (CMU)</h6>
       <p><a href="mailto:shinjiw@ieee.org">shinjiw@ieee.org</a></p>
     </div>
   </div>
